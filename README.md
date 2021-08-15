@@ -2,7 +2,8 @@
 
 **Scenario**
 
-Imagine that you are the Information Security officer of MBI Insurance Company. The company has just embraced the work from home policy due to Covid-19 Where some of the staff members will be working from their homes, using their internet and devices.  
+Imagine that you are the Information Security officer of MBI Insurance Company. 
+The company has just embraced the work from home policy due to Covid-19 Where some of the staff members will be working from their homes, using their internet and devices.  
 
 Using the knowledge, you have learned and researched, develop a risk assessment plan for the organization stating any assumptions made.  
 
@@ -19,12 +20,4 @@ STEP3: Evaluate the Risks and decide on precautions
 
 STEP4: Record finding 
 
- 
 
-Start collecting and researching information 
-
-Think creatively. 
-
-Develop the report in Microsoft Word format 
-
-Not more than 2pages 
